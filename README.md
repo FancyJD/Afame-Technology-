@@ -1,4 +1,4 @@
-# Afame-Technology-
+# Afame-Technologies-
 
 ## This repository contains projects that i have done as part internship Afame Technology.
 
