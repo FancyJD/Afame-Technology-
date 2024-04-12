@@ -22,10 +22,11 @@ In this project, I leveraged the powerful capabilities of Power BI to perform ad
 
 Final Analysis:
 
-Using Power BI, I delved deep into the HR dataset to uncover meaningful insights. This included:-
-Employee Demographics: Analysing the distribution of employees based on age, gender, and department.
-Performance Metrics: Investigating key performance indicators such as employee productivity, attrition rates, and performance ratings.
-Employee Satisfaction Scores: Examining data to gauge employee satisfaction levels and identify potential areas for improvement.
+Using Power BI, I delved deep into the HR dataset to uncover meaningful insights. 
+This included:-
+* Employee Demographics: Analysing the distribution of employees based on age, gender, and department.
+* Performance Metrics: Investigating key performance indicators such as employee productivity, attrition rates, and performance ratings.
+* Employee Satisfaction Scores: Examining data to gauge employee satisfaction levels and identify potential areas for improvement.
 
 
 
