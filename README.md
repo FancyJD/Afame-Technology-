@@ -1,11 +1,12 @@
 # Afame-Technologies-
 
-This repository contains projects that i have done as part internship Afame Technology.
+This repository comprises projects that I completed as part of my internship with Afame Technologies. The projects are:
 
-* HR Data Analytics
+* HR Data Analysis
 * Titanic Survival Prediction
 
 ### Tools Used : Excel, Power BI , Python , Jupyter notebook.
+
 
 ## Titanic Survival Prediction: 
 
