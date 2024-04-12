@@ -7,11 +7,11 @@ This repository comprises projects that I completed as part of my internship wit
 
 ### Tools Used : Excel, Power BI , Python , Jupyter notebook.
 
-
+## HR Data Analysis:
 ## Titanic Survival Prediction: 
 
 
-Introduction:
+# Introduction:
 
 This project predicts whether passengers on the Titanic survived or not.
 
